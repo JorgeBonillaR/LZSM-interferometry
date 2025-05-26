@@ -1,10 +1,11 @@
-Este repositorío contiene los códigos utilizados para la realización de mi trabajo de fin de grado. 
-En concreto, en el archivo TFG se pueden encontrar los códigos necesarios para:
-- Definir hamiltonianos
-- Calcular la evolción cuántica de un sistema de forma númerica y estroboscópica
-- Gráficar energías diabáticas y adibáticas de un sistema
-- Representar la probabilidad de transición de Landau-Zener
-- Gráficar diagramas de interferencía LZSM en régimen diabático y adiabático (de forma núemrica y analítica)
-- Un ejemplo de aplicación a un sistema de 4 niveles
-  
-Todo ello a sido realizado en Python, principalemente usando al librería QuTiP
+Este repositorio contiene los códigos utilizados para la realización de mi Trabajo de Fin de Grado.
+En concreto, en el archivo TFG se encuentran los scripts necesarios para:
+
+- Definir Hamiltonianos dependientes del tiempo.
+- Calcular la evolución cuántica de un sistema de forma numérica y estroboscópica.
+- Representar gráficamente las energías diabáticas y adiabáticas de un sistema.
+- Calcular y graficar la probabilidad de transición de Landau-Zener.
+- Generar diagramas de interferencia LZSM en los regímenes diabático y adiabático, tanto numéricamente como analíticamente.
+- Mostrar un ejemplo de aplicación al caso de un sistema de cuatro niveles.
+
+Todo el trabajo ha sido realizado en Python, utilizando principalmente la librería QuTiP.
